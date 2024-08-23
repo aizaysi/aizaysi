@@ -19,7 +19,7 @@ I enjoy learning new technologies and finding innovative solutions to complex pr
 ## 📈 GitHub Stats
 ![Dragan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizaysi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizaysi&layout=compact&theme=radical)
-
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=aizaysi&theme=radical)
 ## 🌍 Find Me
 - [LinkedIn]( https://www.linkedin.com/in/dragan-mickovski-7978022bb)
 - [Portfolio](https://aizaysi.github.io/typescript_portfolio/)
