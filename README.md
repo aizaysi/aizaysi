@@ -11,7 +11,7 @@ I enjoy learning new technologies and finding innovative solutions to complex pr
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, Python, Dart, HTML5, CSS3, TypeScript
-- **Frameworks & Libraries**: React, Nextjs, Django, Flask, Node.js, React Native, Flutter, FlutterFoow, Bubble.io
+- **Frameworks & Libraries**: React, Nextjs, Django, Flutter, FlutterFoow, Bubble.io,, Flask, Node.js, React Native
 - **Databases**: MySQL, Firebase, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Webpack, Visual Studio Code
 - **Cloud Platforms**: AWS, Google Cloud
