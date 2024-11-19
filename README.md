@@ -3,7 +3,7 @@
 aizaysi/aizaysi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# ✨Hello✨, I'm @aizaysi! 👋
+# ✨Hello✨, I'm @Cstar! 👋
 
 ## About Me
 I am a passionate Web and App Developer with over 7 years of experience in designing, developing, and maintaining web and mobile applications.
@@ -11,7 +11,7 @@ I enjoy learning new technologies and finding innovative solutions to complex pr
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, Python, Dart, HTML5, CSS3, TypeScript
-- **Frameworks & Libraries**: React, Nextjs, Django, Flutter, FlutterFoow, Bubble.io,, Flask, Node.js, React Native
+- **Frameworks & Libraries**: React, Nextjs, Django, Flutter, FlutterFoow, Bubble.io,, Flask, Node.js, React Native, Blockchain
 - **Databases**: MySQL, Firebase, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, Webpack, Visual Studio Code
 - **Cloud Platforms**: AWS, Google Cloud
